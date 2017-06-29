@@ -1,0 +1,16 @@
+C:\VSWorks\ISYAMHASPDongleVirtualizer\ISYAMHASPDongleVirtualizer\bin\Debug\ISYAMHASPDongleVirtualizer.exe
+C:\VSWorks\ISYAMHASPDongleVirtualizer\ISYAMHASPDongleVirtualizer\bin\Debug\ISYAMHASPDongleVirtualizer.pdb
+C:\VSWorks\ISYAMHASPDongleVirtualizer\ISYAMHASPDongleVirtualizer\obj\Debug\ResolveAssemblyReference.cache
+C:\VSWorks\ISYAMHASPDongleVirtualizer\ISYAMHASPDongleVirtualizer\obj\Debug\ISYAMHASPDongleVirtualizer.Form1.resources
+C:\VSWorks\ISYAMHASPDongleVirtualizer\ISYAMHASPDongleVirtualizer\obj\Debug\ISYAMHASPDongleVirtualizer.Properties.Resources.resources
+C:\VSWorks\ISYAMHASPDongleVirtualizer\ISYAMHASPDongleVirtualizer\obj\Debug\ISYAMHASPDongleVirtualizer.csproj.GenerateResource.Cache
+C:\VSWorks\ISYAMHASPDongleVirtualizer\ISYAMHASPDongleVirtualizer\obj\Debug\ISYAMHASPDongleVirtualizer.exe
+C:\VSWorks\ISYAMHASPDongleVirtualizer\ISYAMHASPDongleVirtualizer\obj\Debug\ISYAMHASPDongleVirtualizer.pdb
+E:\C#Works\ISYAMHASPDongleVirtualizer\ISYAMHASPDongleVirtualizer\obj\Debug\ISYAMHASPDongleVirtualizer.exe
+E:\C#Works\ISYAMHASPDongleVirtualizer\ISYAMHASPDongleVirtualizer\obj\Debug\ISYAMHASPDongleVirtualizer.pdb
+E:\C#Works\ISYAMHASPDongleVirtualizer\ISYAMHASPDongleVirtualizer\bin\Debug\ISYAMHASPDongleVirtualizer.exe
+E:\C#Works\ISYAMHASPDongleVirtualizer\ISYAMHASPDongleVirtualizer\bin\Debug\ISYAMHASPDongleVirtualizer.pdb
+E:\C#Works\ISYAMHASPDongleVirtualizer\ISYAMHASPDongleVirtualizer\obj\Debug\ISYAMHASPDongleVirtualizer.csprojResolveAssemblyReference.cache
+E:\C#Works\ISYAMHASPDongleVirtualizer\ISYAMHASPDongleVirtualizer\obj\Debug\ISYAMHASPDongleVirtualizer.Form1.resources
+E:\C#Works\ISYAMHASPDongleVirtualizer\ISYAMHASPDongleVirtualizer\obj\Debug\ISYAMHASPDongleVirtualizer.Properties.Resources.resources
+E:\C#Works\ISYAMHASPDongleVirtualizer\ISYAMHASPDongleVirtualizer\obj\Debug\ISYAMHASPDongleVirtualizer.csproj.GenerateResource.Cache

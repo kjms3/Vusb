@@ -1,0 +1,14 @@
+E:\C#Works\ISYAMHASPDongleVirtualizer\ISYAMHASPDongleVirtualizer\bin\Debug\ISYAMHASPDongleVirtualizer.exe
+E:\C#Works\ISYAMHASPDongleVirtualizer\ISYAMHASPDongleVirtualizer\bin\Debug\ISYAMHASPDongleVirtualizer.pdb
+E:\C#Works\ISYAMHASPDongleVirtualizer\ISYAMHASPDongleVirtualizer\obj\Debug\ISYAMHASPDongleVirtualizer.Form1.resources
+E:\C#Works\ISYAMHASPDongleVirtualizer\ISYAMHASPDongleVirtualizer\obj\Debug\ISYAMHASPDongleVirtualizer.Properties.Resources.resources
+E:\C#Works\ISYAMHASPDongleVirtualizer\ISYAMHASPDongleVirtualizer\obj\Debug\HASPHLDongleVirtualizer.csproj.GenerateResource.Cache
+E:\C#Works\ISYAMHASPDongleVirtualizer\ISYAMHASPDongleVirtualizer\obj\Debug\ISYAMHASPDongleVirtualizer.exe
+E:\C#Works\ISYAMHASPDongleVirtualizer\ISYAMHASPDongleVirtualizer\obj\Debug\ISYAMHASPDongleVirtualizer.pdb
+E:\C#Works\HASPHLDongleVirtualizer\HASPHLDongleVirtualizer\bin\Debug\HASPHLDongleVirtualizer.exe
+E:\C#Works\HASPHLDongleVirtualizer\HASPHLDongleVirtualizer\bin\Debug\HASPHLDongleVirtualizer.pdb
+E:\C#Works\HASPHLDongleVirtualizer\HASPHLDongleVirtualizer\obj\Debug\HASPHLDongleVirtualizer.Form1.resources
+E:\C#Works\HASPHLDongleVirtualizer\HASPHLDongleVirtualizer\obj\Debug\HASPHLDongleVirtualizer.Properties.Resources.resources
+E:\C#Works\HASPHLDongleVirtualizer\HASPHLDongleVirtualizer\obj\Debug\HASPHLDongleVirtualizer.csproj.GenerateResource.Cache
+E:\C#Works\HASPHLDongleVirtualizer\HASPHLDongleVirtualizer\obj\Debug\HASPHLDongleVirtualizer.exe
+E:\C#Works\HASPHLDongleVirtualizer\HASPHLDongleVirtualizer\obj\Debug\HASPHLDongleVirtualizer.pdb
